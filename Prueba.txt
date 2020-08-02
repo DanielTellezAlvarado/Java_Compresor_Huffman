@@ -1,0 +1,12 @@
+
+        1.1 Electricidad Básica
+
+1.1.1  Principios de Electricidad
+Todos los efectos de la electricidad pueden explicarse y predecirse presumiendo la existencia de una diminuta partícula denominada electrón. Aplicando esta teoría electrónica, los hombres de ciencia han hecho predicciones y descubrimientos que pocos años atrás parecían imposibles. La teoría electrónica no sólo constituye la base para el diseño de equipos eléctricos y electrónicos de todo tipo, sino que explica los fenómenos químicos y permite a los químicos predecir y formar nuevos compuestos, como las maravillosas drogas sintéticas.
+En vista de que la presunción de la existencia del electrón ha conducido a tantos importantes descubrimientos en el campo de la electricidad, la electrónica, la química y la física atómica, suponemos sin temor a equivocarnos que el electrón es una realidad. Todos los equipos eléctricos y electrónicos han sido diseñados en base a la teoría de los electrones.
+Definición 
+La electricidad es la acción que producen los electrones al trasladarse de un punto a otro, ya sea por su falta o exceso de los mismos en un material.
+Para que los electrones se muevan es necesario que alguna forma de energía se convierta en electricidad. Se emplean seis formas de energía, cada una de la cuales podría considerarse como fuente independiente de electricidad.
+Para entender bien estos conceptos, debemos empezar por el principio: conociendo al electrón, al átomo y a la estructura atómica de la materia.
+Estructura de la materia.
+La materia puede definirse como cualquier cuerpo que ocupa un lugar en el espacio y tiene peso. Por ejemplo la madera, el aire, el agua, etc. Toda materia está compuesta de moléculas formadas por combinaciones de átomos, los cuales son partículas muy pequeñas. Los principales elementos que forman al átomo son el electrón, el protón, el neutrón y el núcleo. (Ver Figura 1.)
